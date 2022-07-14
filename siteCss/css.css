@@ -1,0 +1,13 @@
+html{
+    text-align: center;
+}
+
+footer::after{
+    content: "© Copyright 2022 ProjetoAcademia.github.io - Todos os Direitos Reservados";
+}
+
+body{
+    border-radius: 18px;
+    padding: 10px;
+    
+}
